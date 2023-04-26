@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1f993abcee13467097c43f7c77d4769f" Name="Diagram1">
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.BANAN" Width="1.5" PointX="3" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.BAOCAO" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.CTPN" Width="1.5" PointX="5.25" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.CTPX" Width="1.5" PointX="5.25" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.HOADON" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.KHACHHANG" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.KHUYENMAI" Width="1.5" PointX="3" PointY="21" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.MENUDOAN" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.MENUDOUONG" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.NHANVIEN" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.NHAPKHO" Width="1.5" PointX="3" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.QUYDINH" Width="1.5" PointX="3" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.SANPHAMNHAP" Width="1.5" PointX="3" PointY="25.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.SANPHAMXUAT" Width="1.5" PointX="3" PointY="29.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYNHAHANG1Model.XUATKHO" Width="1.5" PointX="3" PointY="17.5" IsExpanded="true" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.BA_IDNV_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.HD_BAN_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.BC_IDNV_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.CT_MAHD_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.CT_MASP_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.CT_MAHDXUAT_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.CT_MASPXUAT_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.HD_HDKM_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.KH_NGUOILAP_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.NK_MANV_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.QD_IDNC_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYNHAHANG1Model.XK_MANV_FK" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
